@@ -1,0 +1,17 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A README file generator using Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Swanton",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "8.2.4"
+  }
+}
