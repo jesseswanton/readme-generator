@@ -27,6 +27,8 @@ This application is covered under the MIT license. Additional license informatio
 ## Usage
 Enter information per the promtps to generate the file.
 
+[Walkthrough video](https://drive.google.com/file/d/1fFUJe6YPe8UyyXO0eTZLt8qEOounNOm3/view?usp=sharing)
+
 ## Contributing
 Submit a pull request on GitHub.
 
