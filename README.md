@@ -40,4 +40,4 @@ If you have any questions, feel free to reach out via:
 - Email: jswan7692@gmail.com
 
 ## Reporting Issues
-Please open an issue on GitHub
+Please open an issue on GitHub.
